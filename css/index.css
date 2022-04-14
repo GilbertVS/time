@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+header {
+    height:10pt;
+    width:100%;
+}
+h1 {
+    text-align: center;
+}
+#conversor {
+    width:70%;
+    margin: auto;
+}
+.actualitzat {
+    float:right;
+    font-size:14pt;
+    color:#666666;}
+.actualitzat:hover {
+    background:#116611;
+    color:#FFFFAA;}
+.text-brown {
+    padding:1%;
+    color:#881111;
+    font-size: 40px;
+}
+.text-green {
+    padding: 1%;
+    color:#111188;
+    font-size: 40px;
+}
+.btn {font-size:14pt; border-radius: 15px; background-color: #AAAAAA; color: #666666;}
+.btn:hover{background-color: #116611; color:#FFFFAA;}
+#sortir, #sortir2, #b,  #sortir4, #sortir3, #lliures, #dolars, #eurosD, #euros {
+    font-size: 42px;
+}
+#lliures1, #dolars1, #euros1 {
+    font-size: 30px;
+}
